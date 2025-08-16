@@ -45,7 +45,7 @@
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjaygithub7&show_icons=true&theme=dracula&locale=en&layout=compact" 
     alt="sanjaygithub7" 
-    width="600"
+    width="300"
   />
 </div>
 
