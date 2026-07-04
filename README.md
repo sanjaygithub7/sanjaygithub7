@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjay Kumar S</h1>
-<h3 align="center">Software Tester</h3>
+<h3 align="center">QA Engineer</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
