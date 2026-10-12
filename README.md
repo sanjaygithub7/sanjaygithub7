@@ -11,6 +11,10 @@
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60" style="margin:10px;"/>
   </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://www.google.com/imgres?q=playwright%20logo&imgurl=https%3A%2F%2Flogowik.com%2Fcontent%2Fuploads%2Fimages%2Fplaywright1721168006.logowik.com.webp&imgrefurl=https%3A%2F%2Flogowik.com%2Fplaywright-logo-vector-71329.html&docid=D5CsyMS1hS_jwM&tbnid=xp5KjafJuLiSYM&vet=12ahUKEwjv86rx_rSXAxUSjOEIHWzqPKkQnPAOegUIvQEQAA..i&w=866&h=650&hcb=2&ved=2ahUKEwjv86rx_rSXAxUSjOEIHWzqPKkQnPAOegUIvQEQAA" alt="playwright" width="60" height="60" style="margin:10px;"/>
+  </a>
+  
   <a href="https://golang.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="60" height="60" style="margin:10px;"/>
   </a>
